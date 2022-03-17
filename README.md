@@ -1,2 +1,2 @@
-# Yandex-Practicum-Projects
-Projects completed in the learning process
+# Gold Recovery
+Предсказание коэффициента восстановления золота из золотосодержащей руды
